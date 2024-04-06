@@ -1,6 +1,7 @@
 import Card from "./components/Card";
 import { useState } from "react";
 import React from "react";
+import "./style.scss";
 
 const movies = [
   {
@@ -38,11 +39,7 @@ const movies = [
 ];
 
 function App() {
-  return (
-    <div>
-      <Card movies={movies[0]} />
-    </div>
-  );
+  return <Card movies={movies[0]} />;
 }
 
 export default App;

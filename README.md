@@ -1,8 +1,11 @@
-# React + Vite
+Hello,
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+J'ai choisi la méthode préprocesseurs CSS car elle me parle davantage et permet de cibler plus précisement les éléments selon moi.
 
-Currently, two official plugins are available:
+Pour ce projet j'ai utilisé un paquet appelé react-simple-star-rating pour la notation avec des étoiles : "https://github.com/awran5/react-simple-star-rating".
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Projet inspiré de : https://www.instagram.com/coding.stella/p/C4X5cenNCS0/?img_index=1
+
+En espérant que ça vous plaira !
+
+PS : J'ai bien galéré et je suis très contente de cette carte alors soyez gentils !
